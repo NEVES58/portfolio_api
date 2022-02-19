@@ -12,11 +12,11 @@ const ParticipantsContent: React.FC<ParticipantsContentType> = () => {
                 <ParticipantItem 
                     name="João Neves"
                     photoUrl={defaultUserPhotoUrl}
-                    role="Não faz nada"/>
+                    role="Faz tudo"/>
                 <ParticipantItem 
                     name="João Manaia"
                     photoUrl={defaultUserPhotoUrl}
-                    role="O que faz tudo"/>
+                    role="Nao faz nada e ainda reclama"/>
                 <ParticipantItem 
                     name="Tiago Caetano"
                     photoUrl={defaultUserPhotoUrl}
